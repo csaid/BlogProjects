@@ -4,3 +4,5 @@ venv
 .env
 .ipynb_checkpoints
 .png
+.Rapp.history
+__pycache__
